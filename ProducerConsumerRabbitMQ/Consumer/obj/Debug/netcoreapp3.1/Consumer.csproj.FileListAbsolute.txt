@@ -1,0 +1,16 @@
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\Consumer.exe
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.csprojAssemblyReference.cache
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfoInputs.cache
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfo.cs
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.CoreCompileInputs.cache
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\Consumer.deps.json
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\Consumer.runtimeconfig.json
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\Consumer.runtimeconfig.dev.json
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\Consumer.dll
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\Consumer.pdb
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.CopyComplete
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.dll
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.pdb
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Project\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.1\Consumer.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpW63Plw183BbCHSvqetflnv+FTwUFLc1w1Ria+rAzrG+8TOhplr/iQ/A1Kab87wuzz7kB8j4jN/qqZXzOxhKw==",
+  "success": true,
+  "projectFilePath": "C:\\Andrey\\Pessoal\\Cursos Udemy\\1. IBM Udemy\\Build .NET Core Microservices using RabbitMQ Messaging\\Project\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
